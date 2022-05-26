@@ -1,0 +1,37 @@
+.salaries {
+    align-content: center;
+    width: 1350px;
+    margin: 0 auto;
+}
+
+input {
+    width: 75px;
+}
+
+.minus {
+    margin: 0 0 0 3px;
+    cursor: pointer;
+}
+
+.plus, button {
+    cursor: pointer;
+}
+
+input[name='employee'] {
+    width: 130px!important;
+}
+
+button[type='submit'] {
+    margin-top: 20px;
+}
+
+.success {
+    color: #00FF00;
+    font-weight: bold;
+    font-size: 32px;
+}
+.red {
+    color: #FF0000;
+    font-weight: bold;
+    font-size: 22px;
+}
